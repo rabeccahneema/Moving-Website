@@ -1,0 +1,224 @@
+body{
+    padding: 0;
+    margin:0;
+}
+.myContainer{
+    padding: 0;
+    margin: 0;
+    
+    
+    
+}
+.sec1{
+    background-image: url(https://media.istockphoto.com/id/1402500997/photo/mature-couple-with-moving-boxes-in-new-home.jpg?s=612x612&w=0&k=20&c=5XnzxFekuW1GsYs8wrhkr6tUD-0lJr9an9KtaIXdLLw=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: 80vh;
+ 
+    padding: 20px;
+    margin:20 ;
+    align-items: center;
+    align-content:center;
+    justify-content: center;
+   
+
+    
+}
+.list{
+    display: flex;
+}
+
+.smooth{
+    border:none;
+    font-size: larger;
+   
+    padding: 12px 16px;
+}
+
+header{
+    background-color: black;
+    color: azure;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin:auto;
+    
+
+}
+.click-button{
+   display: flex;
+   justify-content: center;
+    
+}
+.click-button button{
+    background: none;
+    border: none;
+    background-color: rgb(131, 131, 40);
+   
+    padding: 12px 16px;
+    border-radius: 5px;
+    color: white;
+}
+#s1{
+    justify-content: center;
+    color: black;
+    display: flex;
+    font-size: xx-small;
+    font-weight: 400;
+}
+#s2{
+    justify-content: center;
+    color: black;
+    display: flex;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.sec2{
+    background-color: white;
+    
+   
+}
+#learn{
+    font-size: x-small;
+    color: rgb(167, 87, 58);
+}
+#riaan{
+    font-size: xx-large;
+    font-weight: bold;
+    display: grid;
+    grid-template-columns: 1fr auto; 
+    align-items: center; 
+    padding-left: 100px;
+}
+.image1{
+    justify-content:space-around;
+    width: 800px;
+    
+   
+
+}
+.image2{
+    justify-content: space-around;
+    padding-left: 885px;
+    
+  
+
+}
+
+.logo{
+    display: flex;
+    
+    justify-content: flex-start;
+    
+}
+.logo2{
+    width:100px;
+    
+}
+.logo3{
+    width: 100px;
+}
+.sec3{
+    background-color: whitesmoke;
+}
+.image3{
+    width: 900px;
+    padding-left: 600px;
+    
+}
+#serv{
+    font-size: xx-large;
+    font-weight: bolder;
+    display: flex;
+   padding-top: 50px;
+  
+}
+#list{
+    font-size: larger;
+    font-weight: 400;
+    padding-left: 100px;
+   
+}
+.blog{
+   justify-content: center;
+}
+.img{
+    
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 16px;
+   
+
+}
+.image4{
+    width:400px;
+   
+    
+}
+.image5{
+    width: 400px;
+}
+.image6{
+    width: 400px;
+}
+#d1{
+    font-size: xx-small;
+    color: rgb(235, 146, 114);
+    font-weight: 400;
+}
+#d2{
+    font-size: xx-large;
+    padding-left: 500px;
+}
+.overlay{
+    display: flex;
+    justify-content: space-around;
+}
+.over1{
+    font-size: larger;
+}
+.over2{
+    font-size: larger;
+}
+.over3{
+    font-size: larger;
+}
+.cont{
+    background-color: rgb(243, 243, 25);
+    justify-content: space-between;
+
+}
+#cont1{
+    font-size: larger;
+    padding-left: 500px;
+    padding-top: 50px;
+
+}
+.click-button{
+    display: flex;
+   justify-content: center;
+}
+.click-button button{
+    background: none;
+    border: none;
+    background-color: black;
+   
+    padding: 12px 16px;
+    border-radius: 5px;
+    color: white;
+}
+#phone{
+    font-size: larger;
+    padding-left: 500px;
+    padding-top: 50px;
+
+}
+footer{
+    font-size: larger;
+    background-color: rgb(49, 47, 47);
+    color: azure;
+  
+
+}
+
